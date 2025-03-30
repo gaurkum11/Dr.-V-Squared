@@ -15,14 +15,9 @@ It supports **both voice and text-based queries** and can analyze medical images
 - **Medical Image Analysis:** Provides insights based on uploaded medical images.
 - **Conversational AI:** Mimics a real doctor for natural interactions.
 
-## Installation Guide
-### 1. Clone the Repository
-```sh
-git clone https://github.com/yourusername/doctor-v2.git
-cd doctor-v2
-```
 
-### 2. Set Up Virtual Environment
+
+### 1. Set Up Virtual Environment
 #### Using Conda
 ```sh
 conda create --name myenv python=3.11
